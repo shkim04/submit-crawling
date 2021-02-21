@@ -1,0 +1,20 @@
+{
+  "name": "crawling-for-url",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "node crawl.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5"
+  },
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "fs": "0.0.1-security"
+  }
+}
